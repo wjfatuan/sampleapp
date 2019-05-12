@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1f4782cef71c43bca9927a0485669951)](https://app.codacy.com/app/wilson.forero/sampleapp?utm_source=github.com&utm_medium=referral&utm_content=wjfatuan/sampleapp&utm_campaign=Badge_Grade_Dashboard)
+
 En el directorio del proyecto, puede ejecutar:
 
 ### `npm start`
